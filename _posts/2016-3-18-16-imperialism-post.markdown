@@ -7,3 +7,6 @@ categories:
 ---
 
 # The Legacy of Imperialism
+
+### Article Link - [Reuters](http://www.reuters.com/article/us-india-independence-legacy-idUSSP29531720070815)
+<br>
