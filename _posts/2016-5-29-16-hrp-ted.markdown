@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "HRP TED Talk"
+subtitle: "A short video"
+date:   2016-05-29 12:56:45
+categories:
+---
+
+# Human Rights Project Ted Talk
+
+After writing the human rights research paper, we recorded a TED talk about the same topic, using the information we gathered as a basis for the talk.
+
+Link: [TED Talk](https://drive.google.com/a/mvla.net/file/d/0B44C5rRwFzzvQ3ppV2d4Q0p5NWs/view?usp=sharing)

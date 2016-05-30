@@ -1,9 +1,12 @@
 ---
 layout: page
 title: About
-subtitle: Just who do you think I am?
+subtitle: Coding Ninja
 permalink: /about/
 ---
 
+![Alt text](/me.jpeg)
+
 My name is Oscar Bjorkman. I am a 10th grader at Los Altos High School. I am an
-iOS and web developer.
+iOS and web developer. So far, I have published 3 iOS applications to the Apple App store. This website was also developed by me using Jekyll, a static blog generator.
+
