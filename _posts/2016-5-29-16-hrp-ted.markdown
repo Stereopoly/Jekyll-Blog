@@ -11,3 +11,8 @@ categories:
 After writing the human rights research paper, we recorded a TED talk about the same topic, using the information we gathered as a basis for the talk.
 
 Link: [TED Talk](https://drive.google.com/a/mvla.net/file/d/0B44C5rRwFzzvQ3ppV2d4Q0p5NWs/view?usp=sharing)
+
+### Reflection
+The TED talk was a very interesting assignment because it allowed use to take our quite long research paper and condense it into a nice format. I used a slide deck made in Keynote to accompany the voice recording. I felt like I improved with designing an engaging and informative presentation during this assignment. At first, I was planning to use Google Slides, but the slides were too drab and boring to look at. I looked at previous slides uses at Apple keynotes, because those are usually very good. I used a lot of images and almost no text on my slides.
+
+I thought that this project was very interesting because it allowed us to learn about a current world problem and then create a product, not just a research paper. Most other classes we would just write a paper and that was the end of the project. One thing that I disliked about the project was that I didn't have enough time to try to make animations and other nice touches like real TED talks had. I enjoyed making the slides because I learned a lot about making them nice and appealing. I used Final Cut Pro X at the end of the recording to cut out the annoying Screencastify watermark that was at the top right corner.
